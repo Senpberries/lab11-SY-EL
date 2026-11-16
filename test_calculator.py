@@ -5,7 +5,7 @@ class TestCalculator(unittest.TestCase):
     ######## Partner 2
     def test_add(self): # 3 assertions
         self.assertEqual(add(2, 3), 5)
-        self.assertEqual(-1, 5), 4)
+        self.assertEqual(add(-1, 5), 4)
         self.assertEqual(add(0, 0), 0)
 
 
