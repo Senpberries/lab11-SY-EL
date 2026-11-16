@@ -1,3 +1,6 @@
+# https://github.com/Senpberries/lab11-SY-EL
+# Partner 1: Sen Yang
+# Partner 2: Evelyn Lopez
 """
 calculator.py
 - Defines functions used to create a simple calculator
